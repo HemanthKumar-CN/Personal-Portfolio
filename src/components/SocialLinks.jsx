@@ -42,7 +42,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "/Hemanth Kumar C N Resume.pdf",
-      style: "rounded-br-md",
+
       download: true,
     },
     {
@@ -53,6 +53,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "https://wa.me/9449740870",
+      style: "rounded-br-md",
     },
   ];
 
