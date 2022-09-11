@@ -74,6 +74,7 @@ const Experience = () => {
   return (
     <div
       name="tech stacks"
+      style={{ border: "1px  orange" }}
       className="bg-gradient-to-b from-gray-800 to-black w-full h-full"
       // style={{ border: "1px solid red" }}
     >

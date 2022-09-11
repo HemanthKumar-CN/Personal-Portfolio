@@ -2,6 +2,7 @@ import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
+import { BsWhatsapp } from "react-icons/bs";
 
 const SocialLinks = () => {
   const links = [
@@ -40,9 +41,18 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/resume.pdf",
+      href: "/Hemanth Kumar C N Resume.pdf",
       style: "rounded-br-md",
       download: true,
+    },
+    {
+      id: 5,
+      child: (
+        <>
+          +91-944-9740870 <BsWhatsapp size={30} />
+        </>
+      ),
+      href: "https://wa.me/9449740870",
     },
   ];
 

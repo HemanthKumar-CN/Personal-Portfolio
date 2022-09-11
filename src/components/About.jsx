@@ -7,19 +7,22 @@ const About = () => {
       className="w-full bg-gradient-to-b from-gray-800 to-black text-white"
     >
       <div className="max-w-screen-lg px-4 mx-auto flex flex-col justify-center w-full">
-        <div className="pb-8">
+        <div className="pb-1">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             About
           </p>
         </div>
 
-        <p className="text-xl mt-20">
-          Being an ambitious Front-end Developer, I'm looking forward for a
-          career in a reputed organisation working with latest technologies on
-          challenging and diverse projects.
+        <p className="text-xl mt-10">
+          Innovative, task-driven professional Web developer able to build a Web
+          presence from the ground up - from concept, navigation, layout and
+          programming to UX and SEO.
           <br />
-          I'm quietly confident, naturally curious, and perpetually working on
-          improving my chops, one problem at a time.
+          Skilled at writing well-designed, testable and efficient code using
+          current best practices in Web development.
+          <br />
+          Fast learner, hard worker and team player who is proficient in an
+          array of tech stacks.
         </p>
 
         <br />
